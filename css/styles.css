@@ -1,0 +1,28 @@
+header , footer {
+    background-color: #202020;
+    color: white;
+    
+
+}
+header a{
+    color: white;
+}
+.cta {
+    background-color: red;
+    color: white;
+
+}
+.reviews {
+    background-color: gray;
+}
+.featured-product {
+    background-color: lightgray;
+}
+.cta-sale {
+    background-color: #127300;
+
+}
+footer{
+    text-align: center;
+
+}
